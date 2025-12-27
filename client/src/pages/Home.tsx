@@ -56,7 +56,7 @@ export default function Home() {
     {
       id: 'culinary',
       title: 'Culinary School',
-      price: '$670(N1,000.000)',
+      price: '$670 (N1,000.000)',
       excerpt: 'Teach a man to fish, and you feed him for life…',
       image: '/images/culinary-card.jpg',
       details:
