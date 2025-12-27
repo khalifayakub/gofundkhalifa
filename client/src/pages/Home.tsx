@@ -38,7 +38,7 @@ export default function Home() {
     {
       id: 'ps5',
       title: 'PlayStation 5',
-      price: '₦850,000',
+      price: '$570 (N850,000)',
       excerpt: 'All work and no play makes Jack a dull boy…',
       image: '/images/ps5-card.jpg',
       details:
@@ -47,7 +47,7 @@ export default function Home() {
     {
       id: 'myslf',
       title: 'Myslf EDP',
-      price: '₦250,000',
+      price: '$170 (N250,000)',
       excerpt: 'Elegance is a presence before it\'s a word…',
       image: '/images/fragrance-card.jpg',
       details:
@@ -56,7 +56,7 @@ export default function Home() {
     {
       id: 'culinary',
       title: 'Culinary School',
-      price: '₦1,000,000',
+      price: '$670(N1,000.000)',
       excerpt: 'Teach a man to fish, and you feed him for life…',
       image: '/images/culinary-card.jpg',
       details:
