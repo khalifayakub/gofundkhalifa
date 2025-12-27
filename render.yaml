@@ -1,0 +1,9 @@
+services:
+  - type: static_site
+    name: gofundkhalifa
+    buildCommand: pnpm install --frozen-lockfile; pnpm run build
+    staticPublishPath: dist
+    routes:
+      - path: /*
+        methods: [GET, HEAD, OPTIONS]
+        dest: /index.html
